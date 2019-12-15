@@ -1,5 +1,7 @@
 # flutter_app1
 
+/*学习中...*/
+
 A new Flutter application.
 
 ## Getting Started
